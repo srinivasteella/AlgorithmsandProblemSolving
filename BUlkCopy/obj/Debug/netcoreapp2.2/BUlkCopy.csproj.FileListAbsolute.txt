@@ -1,0 +1,11 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\bin\Debug\netcoreapp2.2\BUlkCopy.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\bin\Debug\netcoreapp2.2\BUlkCopy.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\bin\Debug\netcoreapp2.2\BUlkCopy.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\bin\Debug\netcoreapp2.2\BUlkCopy.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\bin\Debug\netcoreapp2.2\BUlkCopy.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\obj\Debug\netcoreapp2.2\BUlkCopy.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\obj\Debug\netcoreapp2.2\BUlkCopy.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\obj\Debug\netcoreapp2.2\BUlkCopy.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\obj\Debug\netcoreapp2.2\BUlkCopy.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\obj\Debug\netcoreapp2.2\BUlkCopy.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BUlkCopy\obj\Debug\netcoreapp2.2\BUlkCopy.csprojAssemblyReference.cache

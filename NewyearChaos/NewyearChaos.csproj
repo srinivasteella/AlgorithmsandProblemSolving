@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp2.2\Input0.txt" />
+    <Content Include="bin\Debug\netcoreapp2.2\Input5.txt" />
+    <Content Include="bin\Debug\netcoreapp2.2\Input4.txt" />
+    <Content Include="bin\Debug\netcoreapp2.2\Input3.txt" />
+    <Content Include="bin\Debug\netcoreapp2.2\Input2.txt" />
+    <Content Include="bin\Debug\netcoreapp2.2\Input1.txt" />
+    <Content Include="bin\Debug\netcoreapp2.2\Input.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\netcoreapp3.1\" />
+  </ItemGroup>
+
+</Project>

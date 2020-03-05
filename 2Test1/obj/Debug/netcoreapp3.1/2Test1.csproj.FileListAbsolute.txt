@@ -1,0 +1,11 @@
+C:\Job Applications\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp3.1\2Test1.exe
+C:\Job Applications\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp3.1\2Test1.deps.json
+C:\Job Applications\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp3.1\2Test1.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp3.1\2Test1.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp3.1\2Test1.dll
+C:\Job Applications\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp3.1\2Test1.pdb
+C:\Job Applications\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp3.1\2Test1.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp3.1\2Test1.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp3.1\2Test1.dll
+C:\Job Applications\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp3.1\2Test1.pdb
+C:\Job Applications\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp3.1\2Test1.csprojAssemblyReference.cache

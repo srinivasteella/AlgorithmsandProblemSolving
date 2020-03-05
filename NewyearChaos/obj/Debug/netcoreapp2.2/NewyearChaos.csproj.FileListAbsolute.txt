@@ -1,0 +1,11 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp2.2\NewyearChaos.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp2.2\NewyearChaos.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp2.2\NewyearChaos.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp2.2\NewyearChaos.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp2.2\NewyearChaos.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp2.2\NewyearChaos.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp2.2\NewyearChaos.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp2.2\NewyearChaos.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp2.2\NewyearChaos.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp2.2\NewyearChaos.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp2.2\NewyearChaos.csprojAssemblyReference.cache

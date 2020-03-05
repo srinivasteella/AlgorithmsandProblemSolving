@@ -1,0 +1,11 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\bin\Debug\netcoreapp2.2\HashTable.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\bin\Debug\netcoreapp2.2\HashTable.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\bin\Debug\netcoreapp2.2\HashTable.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\bin\Debug\netcoreapp2.2\HashTable.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\bin\Debug\netcoreapp2.2\HashTable.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\obj\Debug\netcoreapp2.2\HashTable.csprojAssemblyReference.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\obj\Debug\netcoreapp2.2\HashTable.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\obj\Debug\netcoreapp2.2\HashTable.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\obj\Debug\netcoreapp2.2\HashTable.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\obj\Debug\netcoreapp2.2\HashTable.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\HashTable\obj\Debug\netcoreapp2.2\HashTable.pdb

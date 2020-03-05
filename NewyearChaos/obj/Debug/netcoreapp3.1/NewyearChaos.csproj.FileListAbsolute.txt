@@ -1,0 +1,11 @@
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp3.1\NewyearChaos.exe
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp3.1\NewyearChaos.deps.json
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp3.1\NewyearChaos.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp3.1\NewyearChaos.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp3.1\NewyearChaos.dll
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\bin\Debug\netcoreapp3.1\NewyearChaos.pdb
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp3.1\NewyearChaos.csprojAssemblyReference.cache
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp3.1\NewyearChaos.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp3.1\NewyearChaos.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp3.1\NewyearChaos.dll
+C:\Job Applications\MyPractices\Hackerank\NewyearChaos\obj\Debug\netcoreapp3.1\NewyearChaos.pdb

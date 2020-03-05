@@ -1,0 +1,10 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\bin\Debug\netcoreapp2.2\LIS.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\bin\Debug\netcoreapp2.2\LIS.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\bin\Debug\netcoreapp2.2\LIS.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\bin\Debug\netcoreapp2.2\LIS.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\bin\Debug\netcoreapp2.2\LIS.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\obj\Debug\netcoreapp2.2\LIS.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\obj\Debug\netcoreapp2.2\LIS.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\obj\Debug\netcoreapp2.2\LIS.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\obj\Debug\netcoreapp2.2\LIS.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\LIS\obj\Debug\netcoreapp2.2\LIS.pdb

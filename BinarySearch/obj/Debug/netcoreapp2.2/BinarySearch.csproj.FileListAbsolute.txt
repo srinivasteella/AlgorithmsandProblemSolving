@@ -1,0 +1,10 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.pdb

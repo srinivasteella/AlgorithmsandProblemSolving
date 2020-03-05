@@ -1,0 +1,11 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp2.2\2Test1.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp2.2\2Test1.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp2.2\2Test1.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp2.2\2Test1.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\bin\Debug\netcoreapp2.2\2Test1.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp2.2\2Test1.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp2.2\2Test1.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp2.2\2Test1.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp2.2\2Test1.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp2.2\2Test1.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\2Test1\obj\Debug\netcoreapp2.2\2Test1.csprojAssemblyReference.cache
