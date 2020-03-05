@@ -1,0 +1,11 @@
+C:\Job Applications\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp3.1\CloudJump.exe
+C:\Job Applications\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp3.1\CloudJump.deps.json
+C:\Job Applications\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp3.1\CloudJump.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp3.1\CloudJump.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp3.1\CloudJump.dll
+C:\Job Applications\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp3.1\CloudJump.pdb
+C:\Job Applications\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp3.1\CloudJump.csprojAssemblyReference.cache
+C:\Job Applications\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp3.1\CloudJump.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp3.1\CloudJump.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp3.1\CloudJump.dll
+C:\Job Applications\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp3.1\CloudJump.pdb

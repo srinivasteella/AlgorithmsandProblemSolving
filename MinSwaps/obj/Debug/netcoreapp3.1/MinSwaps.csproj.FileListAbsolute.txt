@@ -1,0 +1,11 @@
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\bin\Debug\netcoreapp3.1\MinSwaps.exe
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\bin\Debug\netcoreapp3.1\MinSwaps.deps.json
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\bin\Debug\netcoreapp3.1\MinSwaps.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\bin\Debug\netcoreapp3.1\MinSwaps.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\bin\Debug\netcoreapp3.1\MinSwaps.dll
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\bin\Debug\netcoreapp3.1\MinSwaps.pdb
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\obj\Debug\netcoreapp3.1\MinSwaps.csprojAssemblyReference.cache
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\obj\Debug\netcoreapp3.1\MinSwaps.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\obj\Debug\netcoreapp3.1\MinSwaps.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\obj\Debug\netcoreapp3.1\MinSwaps.dll
+C:\Job Applications\MyPractices\Hackerank\MinSwaps\obj\Debug\netcoreapp3.1\MinSwaps.pdb

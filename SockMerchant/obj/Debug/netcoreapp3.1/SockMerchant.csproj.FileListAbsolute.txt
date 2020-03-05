@@ -1,0 +1,11 @@
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.exe
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.deps.json
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.dll
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\bin\Debug\netcoreapp3.1\SockMerchant.pdb
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.csprojAssemblyReference.cache
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.dll
+C:\Job Applications\MyPractices\Hackerank\SockMerchant\obj\Debug\netcoreapp3.1\SockMerchant.pdb

@@ -1,0 +1,20 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.csprojAssemblyReference.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.pdb
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.deps.json
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.dll
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp2.2\MarkandToys.pdb
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.dll
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp2.2\MarkandToys.pdb

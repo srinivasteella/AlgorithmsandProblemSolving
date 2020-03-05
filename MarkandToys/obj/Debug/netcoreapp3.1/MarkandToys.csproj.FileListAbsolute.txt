@@ -1,0 +1,10 @@
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp3.1\MarkandToys.exe
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp3.1\MarkandToys.deps.json
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp3.1\MarkandToys.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp3.1\MarkandToys.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp3.1\MarkandToys.dll
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\bin\Debug\netcoreapp3.1\MarkandToys.pdb
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp3.1\MarkandToys.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp3.1\MarkandToys.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp3.1\MarkandToys.dll
+C:\Job Applications\MyPractices\Hackerank\MarkandToys\obj\Debug\netcoreapp3.1\MarkandToys.pdb

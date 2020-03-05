@@ -1,0 +1,11 @@
+C:\Job Applications\MyPractices\Hackerank\HourGlass\bin\Debug\netcoreapp3.1\HourGlass.exe
+C:\Job Applications\MyPractices\Hackerank\HourGlass\bin\Debug\netcoreapp3.1\HourGlass.deps.json
+C:\Job Applications\MyPractices\Hackerank\HourGlass\bin\Debug\netcoreapp3.1\HourGlass.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\HourGlass\bin\Debug\netcoreapp3.1\HourGlass.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\HourGlass\bin\Debug\netcoreapp3.1\HourGlass.dll
+C:\Job Applications\MyPractices\Hackerank\HourGlass\bin\Debug\netcoreapp3.1\HourGlass.pdb
+C:\Job Applications\MyPractices\Hackerank\HourGlass\obj\Debug\netcoreapp3.1\HourGlass.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\HourGlass\obj\Debug\netcoreapp3.1\HourGlass.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\HourGlass\obj\Debug\netcoreapp3.1\HourGlass.dll
+C:\Job Applications\MyPractices\Hackerank\HourGlass\obj\Debug\netcoreapp3.1\HourGlass.pdb
+C:\Job Applications\MyPractices\Hackerank\HourGlass\obj\Debug\netcoreapp3.1\HourGlass.csprojAssemblyReference.cache

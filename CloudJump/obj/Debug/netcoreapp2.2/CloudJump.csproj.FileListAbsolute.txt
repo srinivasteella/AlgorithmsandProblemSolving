@@ -1,0 +1,11 @@
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp2.2\CloudJump.deps.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp2.2\CloudJump.runtimeconfig.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp2.2\CloudJump.runtimeconfig.dev.json
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp2.2\CloudJump.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\bin\Debug\netcoreapp2.2\CloudJump.pdb
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp2.2\CloudJump.csprojAssemblyReference.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp2.2\CloudJump.csproj.CoreCompileInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp2.2\CloudJump.AssemblyInfoInputs.cache
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp2.2\CloudJump.AssemblyInfo.cs
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp2.2\CloudJump.dll
+D:\Dev\MyRND\Pluralsite\Hackerank\MyPractices\Hackerank\CloudJump\obj\Debug\netcoreapp2.2\CloudJump.pdb

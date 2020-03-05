@@ -1,0 +1,11 @@
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.exe
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.deps.json
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.runtimeconfig.json
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.runtimeconfig.dev.json
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.dll
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.pdb
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.csprojAssemblyReference.cache
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.AssemblyInfoInputs.cache
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.AssemblyInfo.cs
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.dll
+C:\Job Applications\MyPractices\Hackerank\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.pdb
